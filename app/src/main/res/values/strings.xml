@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title">Калькулятор</string>
+    <string name="signPlus">+</string>
+    <string name="signMinus">-</string>
+    <string name="signMulti">*</string>
+    <string name="signDiv">/</string>
+    <string name="resultText">Результат</string>
+    <string name="reset">Очистить</string>
+    <string name="exit">Выйти</string>
+</resources>
